@@ -150,21 +150,21 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>000030</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Welcome To xxxxxxxx Roleplay Server</cmd>
+		<cmd>say -1 Добро пожаловать на сервер Severzone</cmd>
 	</job>
 	<job id='1'>
 		<day>1,2,3,4,5,6,7</day>
 		<start>000040</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Please Be Aware That This Server Is A TEST SERVER</cmd>
+		<cmd>say -1 Сейв зоны на кумырне, зеленой горе и у Дикого трейдера</cmd>
 	</job>	
     <job id='2'>
 		<day>1,2,3,4,5,6,7</day>
 		<start>000050</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 Have Any Suggestion Or Feedback? Discord: xxxxxx</cmd>
+		<cmd>say -1 Вы всегда можете поддержать нас и помочь с развитием</cmd>
 	</job>
 	<job id='3'>
 		<day>1,2,3,4,5,6,7</day>
@@ -178,7 +178,7 @@ SEE THE SCHEDULER_FAQ.txt for more info
 		<start>000070</start>
 		<runtime>001500</runtime>
 		<loop>-1</loop>
-		<cmd>say -1 This Server Restart Every 3 Hours</cmd>
+		<cmd>say -1Рестарты каждые 3 часа начиная с 00 по МСК</cmd>
 	</job>	
 <!-- End repeat messages -->
 
